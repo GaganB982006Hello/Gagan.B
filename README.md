@@ -2,3 +2,11 @@
 
 # This is a sample document...
 # We are understanding how to put our project in github..
+Files used
+
+matplotlib==3.10.1
+numpy==2.2.3
+pandas==2.2.3
+scikit_learn==1.6.1
+seaborn==0.13.2
+streamlit==1.42.1
